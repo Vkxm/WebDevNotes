@@ -1,4 +1,4 @@
 ## Accessing an element by id
-`document.getElementById("idName")
+``document.getElementById("idName")
 
-`
+``
