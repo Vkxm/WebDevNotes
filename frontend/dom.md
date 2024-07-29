@@ -6,7 +6,7 @@ document.getElementById("idName");
 ```
 ## Writing values to a tag
 ```javaScript
-document.getElementById("idName").innerHtml
+document.getElementById("idName").innerHTML
 ```
 ## Accessing value of a form
 ```javaScript
