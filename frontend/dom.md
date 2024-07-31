@@ -12,4 +12,11 @@ document.getElementById("idName").innerHTML
 ```javaScript
 document.getElementById("idName").value
 ```
-##  
+## Create element in memory 
+```javaScript
+const y=document.createElement("div");
+```
+## append this element to dom
+```javaScript
+const z=document.getElementById("idName");
+z.appendChild(y)
